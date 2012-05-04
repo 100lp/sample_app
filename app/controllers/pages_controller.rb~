@@ -2,6 +2,7 @@ class PagesController < ApplicationController
 
   def home
     @title = "Home"
+    @base_title = "Rubys Tutorial"
   end
 
   def contact
@@ -15,4 +16,5 @@ class PagesController < ApplicationController
   def help
     @title = "Help"
   end
+
 end
