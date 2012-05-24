@@ -185,4 +185,13 @@ div.field, div.actions {
   margin-bottom: -15px;
 }
 
+				/* Users */
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+
 user_show_sidebar_css
